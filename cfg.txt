@@ -1,0 +1,6 @@
+pre_playpix
+https://script.google.com/macros/s/AKfycbzra5kA2z5C0nhRttivjlKSjP9YYLG3sMUGFnUAiCWWL9ww0gPRbd2I5JHnfeFPtVcKrg/exec
+https://www.aposta1.com/games/jogar/aviator
+'play-frame'
+'payout.ng-star-inserted'
+C:\aviatorpredictV2\chrome
